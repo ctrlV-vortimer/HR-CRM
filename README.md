@@ -17,6 +17,7 @@
   ### Business_Requirements:
   
 [MVP](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql)……………………………………………………….2
+
 Бизнес-требования для сотрудников……………2
 
 Бизнес-требования для HR…………………………2 
