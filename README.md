@@ -15,7 +15,7 @@
 ## Содержание проекта
 
   ### Business_Requirements:
-[Перейти на Google](https://www.google.com)MVP……………………………………………………….2
+[MVP]([https://www.google.com](https://github.com/abdullahproff/BSA21_1/tree/main/Shamray_Aleksandra))……………………………………………………….2
 
 Бизнес-требования для сотрудников……………2
 
