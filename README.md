@@ -16,7 +16,7 @@
 
   ### Business_Requirements:
 [MVP]([https://www.google.com](https://github.com/abdullahproff/BSA21_1/tree/main/Shamray_Aleksandra))……………………………………………………….2
-
+[MVP](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql)
 Бизнес-требования для сотрудников……………2
 
 Бизнес-требования для HR…………………………2 
