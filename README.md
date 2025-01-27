@@ -1,7 +1,7 @@
 
 ## Содержание проекта
 
-  ### [Business_Requirements](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql):
+  ### [Business_Requirements(MVP,Бизнес-требования для сотрудников,Бизнес-требования для HR ](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql):
   
 MVP……………………………………………………….2
 
@@ -13,7 +13,7 @@ User Story………………………………………………..3
 
 Use Case……………………………………………….3-6
 
-Варфрейм…………………………………………….…7
+Варфрейм
 
 
 # HR-CRM
