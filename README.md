@@ -1,9 +1,9 @@
 
 ## Содержание проекта
 
-  ### Business_Requirements:
+  ### [Business_Requirements](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql):
   
-[MVP](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql)……………………………………………………….2
+MVP……………………………………………………….2
 
 Бизнес-требования для сотрудников……………2
 
