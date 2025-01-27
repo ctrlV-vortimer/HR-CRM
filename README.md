@@ -1,7 +1,7 @@
 
 ## Содержание проекта :
 
-  ### [Business_Requirements( MVP , БТ, US, UC, варфрейм) ]([https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/Business_Requirements)
+  ### [Business_Requirements( MVP , БТ, US, UC, варфрейм) ](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/Business_Requirements)
   ### [Клиент-серверное взаимодействие( метод Get, Post, Patch, SD)](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/клиент-серверное%20взаимодействие)
 
 
