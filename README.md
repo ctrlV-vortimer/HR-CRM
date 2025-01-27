@@ -1,7 +1,7 @@
 
 ## Содержание проекта
 
-  ### [Business_Requirements( MVP , бизнес-требования для сотрудников, бизнес-требования для HR, US, UC, варфрейм ](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql):
+  ### [Business_Requirements( MVP , БТ, US, UC, варфрейм) ](https://github.com/ctrlV-vortimer/SQL-Bootcamp/blob/main/src/day0/%20day00_ex01.sql):
   
 
 
