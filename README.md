@@ -4,7 +4,7 @@
   ### [Business_Requirements( MVP , БТ, US, UC, варфрейм) ](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/Business_Requirements)
   ### [Проектирование БД (ERD) ](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/ERD)
   ### [Клиент-серверное взаимодействие( метод Get, Post, Patch, SD)](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/клиент-серверное%20взаимодействие)
-  ### [Функциональные требования(frontend, backend)](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/ФТaaaaa)
+  ### [Функциональные требования(frontend, backend)]([https://github.com/ctrlV-vortimer/HR-CRM/tree/main/ФТaaaaa](https://github.com/ctrlV-vortimer/HR-CRM/tree/main/Функциональные%20требования))
 
 
 # HR-CRM
